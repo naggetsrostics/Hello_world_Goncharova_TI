@@ -1,0 +1,31 @@
+ls -l -a -h
+
+total 112K
+drwx------ 15 vboxuser vboxuser 4.0K Feb 25 16:49 .
+drwxr-xr-x  3 root     root     4.0K Feb 18 15:38 ..
+-rw-------  1 vboxuser vboxuser   14 Feb 25 16:45 .bash_history
+-rw-r--r--  1 vboxuser vboxuser  220 Feb 18 15:38 .bash_logout
+-rw-r--r--  1 vboxuser vboxuser 3.5K Feb 18 15:38 .bashrc
+drwx------ 12 vboxuser vboxuser 4.0K Feb 25 16:46 .cache
+drwx------ 10 vboxuser vboxuser 4.0K Feb 25 16:46 .config
+drwxr-xr-x  2 vboxuser vboxuser 4.0K Feb 18 15:43 Desktop
+drwxr-xr-x  2 vboxuser vboxuser 4.0K Feb 18 15:43 Documents
+drwxr-xr-x  2 vboxuser vboxuser 4.0K Feb 18 15:43 Downloads
+-rw-r--r--  1 vboxuser vboxuser 5.2K Feb 18 15:38 .face
+lrwxrwxrwx  1 vboxuser vboxuser    5 Feb 18 15:38 .face.icon -> .face
+drwx------  2 vboxuser vboxuser 4.0K Feb 18 16:05 .gnupg
+drwx------  4 vboxuser vboxuser 4.0K Feb 18 15:43 .local
+drwxr-xr-x  2 vboxuser vboxuser 4.0K Feb 18 15:43 Music
+drwxr-xr-x  2 vboxuser vboxuser 4.0K Feb 18 15:43 Pictures
+-rw-r--r--  1 vboxuser vboxuser  807 Feb 18 15:38 .profile
+drwxr-xr-x  2 vboxuser vboxuser 4.0K Feb 18 15:43 Public
+drwx------  2 vboxuser vboxuser 4.0K Feb 18 16:02 .ssh
+drwxr-xr-x  2 vboxuser vboxuser 4.0K Feb 18 15:43 Templates
+-rw-r-----  1 vboxuser vboxuser    5 Feb 25 16:49 .vboxclient-clipboard-tty2-control.pid
+-rw-r-----  1 vboxuser vboxuser    5 Feb 25 16:49 .vboxclient-clipboard-tty2-service.pid
+-rw-r-----  1 vboxuser vboxuser    5 Feb 25 16:49 .vboxclient-draganddrop-tty2-control.pid
+-rw-r-----  1 vboxuser vboxuser    5 Feb 25 16:49 .vboxclient-hostversion-tty2-control.pid
+-rw-r-----  1 vboxuser vboxuser    5 Feb 25 16:49 .vboxclient-seamless-tty2-control.pid
+-rw-r-----  1 vboxuser vboxuser    5 Feb 25 16:49 .vboxclient-vmsvga-session-tty2-control.pid
+-rw-r-----  1 vboxuser vboxuser    5 Feb 25 16:49 .vboxclient-vmsvga-session-tty2-service.pid
+drwxr-xr-x  2 vboxuser vboxuser 4.0K Feb 18 15:43 Videos

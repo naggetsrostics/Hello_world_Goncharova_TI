@@ -4,6 +4,6 @@ plus = 0
 count = 0
 while count < n:
   if l[count] > 0:
-    plus += l[count]
+    plus += 1
   count += 1
 print(plus)  
